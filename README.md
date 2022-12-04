@@ -1,16 +1,11 @@
-# game_review
+# :video_game: Game Review
 
-A new Flutter project.
+### :ledger: Description
+Build using flutter, this application show reviewed games. The list of reviewed games data get from API. This app have some fetaures:
+1. List reviewed games
 
-## Getting Started
+2. Detail reviewed ganes
 
-This project is a starting point for a Flutter application.
+### :runner: How To Use
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In the game-review directory, run this following command ```flutter run```
